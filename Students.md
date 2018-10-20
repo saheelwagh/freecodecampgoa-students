@@ -5,3 +5,5 @@ Format for Adding your name to the list :
 Come back and update this in 2019 :)
 
 [1][Saheel Wagh] [-vanilla JS, Node, Express, Golang, Blockchain Programming, Devops] [-I beleive learning the mentioned tech in detail and building projects will help me get hired in the 2nd half of 2019-]
+
+[2][Clyde Noronha] [Python, Unity, RPGMaker, AI/ML, UI/UX] [These are some of the technologies that I am interested in getting into]
