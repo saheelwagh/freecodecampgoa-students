@@ -6,4 +6,4 @@ Come back and update this in 2019 :)
 
 [1][Saheel Wagh] [-vanilla JS, Node, Express, Golang, Blockchain Programming, Devops] [-I beleive learning the mentioned tech in detail and building projects will help me get hired in the 2nd half of 2019-]
 
-[69][Rudraksh Kanekar][-Machine Learning, AI, 3D Texture Design][-To make HiRes memes]
+[69][Rudraksh Kanekar][- Machine Learning, AI, 3D Texture Design][- To make HiRes memes]
